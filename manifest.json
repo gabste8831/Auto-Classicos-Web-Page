@@ -1,0 +1,21 @@
+{
+  "name": "Auto Clássicos - Carros Antigos Brasileiros",
+  "short_name": "Auto Clássicos",
+  "description": "Um catálogo responsivo de carros clássicos que marcaram época no Brasil.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#1a1a1a",
+  "theme_color": "#1a1a1a",
+  "icons": [
+    {
+      "src": "./images/192.jpg",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./images/512.jpg",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
